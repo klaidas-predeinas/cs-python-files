@@ -1,7 +1,6 @@
-this is a 
-sample text
-file
-will some 
-lines of
-text
-bye!
+Hi
+there
+mate
+how
+are
+you?
